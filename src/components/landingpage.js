@@ -20,7 +20,7 @@ class Landing extends Component {
 
               <p>
                 HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express |
-                MongoDB
+                MongoDB | SQL
               </p>
 
               <div className='social-links'>
