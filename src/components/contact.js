@@ -14,12 +14,9 @@ class Contact extends Component {
               style={{ height: "250px" }}
             />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-              What's up! My name's Aaron, I'm 22 years old and I love cars! I'm
-              definitely a dog kinda guy, but I've always had a cat or two in my
-              house. Currently taking on the Web Dev Full Stack bootcamp through
-              Denver University! Look forward to adding more projects to this
-              portfolio! Best way to contact me is by email or hit me up on
-              LinkedIn. Feel free to look at my GitHub to see my current repos.
+              What's up! These are the best ways to contact me at the moment.
+              Feel free to send me an email if you have any questions or
+              business inquires. Thanks!
             </p>
           </Cell>
           <Cell col={6}>
